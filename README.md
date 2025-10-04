@@ -1,7 +1,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joe-gichuru/) 
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/%40joe_gichuru)
+[![twitter](https://img.shields.io/twitter/follow/%40joe_gichuru)](https://x.com/joe_gichuru)
 
 
 # 💻 Tech Stack:
